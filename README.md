@@ -1,1 +1,1 @@
-# lein-party
+# lein-party: A Party Line for ClojureScript.
